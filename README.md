@@ -7,6 +7,7 @@
 <body>
     <canvas id="memeCanvas" width="600" height="400"></canvas>
     <button onclick="generateMeme()">Generate Meme</button>
-    <script src="meme.js"></script>
+    <script src="meme.js">
+    </script>
 </body>
 </html>
